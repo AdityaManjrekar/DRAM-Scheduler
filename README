@@ -1,0 +1,8 @@
+Name: Aditya Manjrekar
+email id: amanjre1@binghamton.edu
+Steps to Execute:
+1) Unzip it using following command:
+	tar -xvf Aditya-Manjrekar-hw3p2.tar.gz
+2) make
+3) ./p2 < memory_sequence.txt > tnm-sdram.txt
+4) Execute the 'diff' command to check the difference between actual and final output 
